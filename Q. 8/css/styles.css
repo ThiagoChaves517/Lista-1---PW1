@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: left;
+}
+
+.escudo{
+    width: 145.2px;
+    height: 204.8px;
+    margin-right: 20px;
+    background-color: lightgrey;
+    border: 10px solid black;
+    
+    padding-top: 5px;
+    padding-bottom: 15px;
+    padding-right: 0px;
+    padding-left: 10px;
+
+    padding: 5px 0px 15px 10px;
+}
+
